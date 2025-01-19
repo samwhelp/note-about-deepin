@@ -21,6 +21,29 @@ has_children: true
 
 
 
+## deepin 25 Preview
+
+* [https://www.deepin.org/download/](https://www.deepin.org/download/)
+* [https://www.deepin.org/zh/download/](https://www.deepin.org/zh/download/)
+* [https://cdimage.deepin.com/releases/25-preview/amd64/](https://cdimage.deepin.com/releases/25-preview/amd64/)
+
+
+> dl.sh
+
+``` sh
+wget -c -i dl.txt
+```
+
+> dl.txt
+
+```
+https://cdimage.deepin.com/releases/25-preview/amd64/MD5SUMS
+https://cdimage.deepin.com/releases/25-preview/amd64/SHA256SUMS
+https://cdimage.deepin.com/releases/25-preview/amd64/deepin-desktop-community-25-preview-amd64.iso
+```
+
+
+
 
 ## Just the Docs
 
