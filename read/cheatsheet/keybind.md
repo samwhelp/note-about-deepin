@@ -79,10 +79,10 @@ parent: 一覽表
 
 | 按鍵組合           | 功能           | 執行指令   |
 | ------------------ | -------------- | ---------- |
-| `Alt + Enter`      | 開啟 Terminal  | `konsole`  |
-| `Alt + Shift + a`  | 開啟 Terminal  | `konsole`  |
+| `Alt + Enter`      | 開啟 Terminal  | `deepin-terminal`  |
+| `Alt + Shift + a`  | 開啟 Terminal  | `deepin-terminal`  |
 | `Alt + Ctrl + a`   | 開啟 Terminal  | `sakura`   |
-| `Alt + Shift + t`  | 開啟 Terminal  | `konsole`  |
+| `Alt + Shift + t`  | 開啟 Terminal  | `deepin-terminal`  |
 | `Alt + Ctrl + t`   | 開啟 Terminal  | `sakura`   |
 
 
@@ -97,11 +97,11 @@ parent: 一覽表
 
 | 按鍵組合           | 功能            | 執行指令          |
 | ------------------ | --------------- | ----------------- |
-| `Alt + Shift + f`  | 開啟檔案管理器  | `dolphin`         |
+| `Alt + Shift + f`  | 開啟檔案管理器  | `dde-file-manager`         |
 | `Alt + Shift + g`  | 開啟檔案管理器  | `pcmanfm-qt`      |
-| `Alt + Shift + e`  | 開啟文字編輯器  | `kate`            |
+| `Alt + Shift + e`  | 開啟文字編輯器  | `deepin-editor`            |
 | `Alt + Shift + b`  | 開啟網頁瀏覽器  | `firefox`         |
-| `Alt + Shift + s`  | 開啟系統設定    | `systemsettings`  |
+| `Alt + Shift + s`  | 開啟系統設定    | `dde-control-center --show`  |
 
 
 
